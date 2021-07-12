@@ -33,8 +33,8 @@ function draw() {
     stroke("#FF0000");
     fill("#FF0000");
     
-    songStat = song1.isPlaying();
-    song1Stat = song2.isPlaying();
+    song1Stat = song1.isPlaying();
+    song2Stat = song2.isPlaying();
     
   
 
